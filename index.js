@@ -5,3 +5,5 @@ function minhafunc(){
         console.log(numeros[i]);
     }
 }
+
+minhafunc();
